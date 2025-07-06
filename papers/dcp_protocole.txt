@@ -1,0 +1,26 @@
+DCP challenge => permet de vérifier la quanticité d'un appareil à partir d'un autre appareil quantique (aka la seule utilité des ordis quantiques actuellement)
+=> Si le testeur à n+1 q-bits alors le second ordinateur (celui testé) à besoin de m*(n+1) q-bits(m cells of n + 1 qubits)), et la résolution du challenge se fait par une QFT
+
+DCP (Dihedral Coset Problem) with mod E and l states is a set of l states of the form |0>|x> + |1>|x> + s mod E> where x and s are in [|0, E-1|] from which the secret s should be the expected output.
+=> solvable in sub-exponential time using QFT, so need for a variant because current NISQ devices are bad (limited registers, low coherence time, low relaxation time, and imperfect gate implementation)
+
+QFT : linear => on CB (computationnal basis) |0>, ..., |N-1>, QFT(|j>) = sum on k from 0 to N-1 (exp(2 i pi j k / N) * |k>)
+=> evaluation time on O(n^2)
+
+Adaptation of DCP : only solve the parity of s (same order of complexity), set E = N = 2^n
+
+X-gate = bit-flip (0 -> 1, 1 -> 0), H-gate = transform to HB (Hadamard Basis) (0 -> (0 + 1) / sqrt(2), 1 -> (0 - 1) / sqrt(2))
+
+Resolution (correct if devices noiseless) : QFT on last n qubits of DCP sample, then measurement => if most significant qubit is different and the rest are identical (collision), go to next step, else reset all registers to 0 and restart
+on collision => tensorial product on the two qubits, then CNOT gate on the result, then measurement on the target qubit => if |1> measured, go to next step, else restart (from the beginning)
+on |1> measured => H-gate on the qubit : |0> = s even, |1> = s odd
+
+Measurement method valid (by shifting from CB), brute force possible for n < 10
+
+protocol : agreement on m, n, number of iterations t and number of repetitions r
+=> do r times (Aline generates s and m x, send m DCP samples that Bob stores on m cells of registers, try t times to solve the parity of s, and respond randomly if it failed)
+=> rate of success = accuracy of Bob (if r large enough) that can be calculated before (and is greater than 1/2)
+
+cheat : 1) longer relaxation time => only one sample erased at a time => better chance of finding a solution (so Bob can pass the test with less than m registers)
+2) less noise => use of SWAP gate => better chance of collision
+=> fix by setting time interval between iterations long enough to bypass the possible relaxation time for the near future but still short enough for an experiment

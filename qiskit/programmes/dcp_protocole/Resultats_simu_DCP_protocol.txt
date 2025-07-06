@@ -1,0 +1,872 @@
+Resultats simu DCP protocol
+
+
+
+t=3 0.5376884422110553
+t=4 0.5477386934673367
+t=5 0.5125628140703518
+t=6 0.5728643216080402 et 0.678391959798995
+t=7 0.628140703517588
+t=8 0.6180904522613065
+t=9 0.6934673366834171 et 0.6180904522613065
+t=10 0.678391959798995
+
+
+simu pendant la nuit:
+
+
+========== Nouvelle itération (n = 2) ==========
+========== t = 7 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.526
+========== t = 3 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.482
+========== t = 5 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.45399999999999996
+========== t = 10 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5329999999999999
+========== t = 9 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5059999999999999
+========== t = 8 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.535
+========== t = 6 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.513
+========== t = 4 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.49000000000000005
+========== t = 11 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.534
+========== t = 12 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.524
+========== t = 13 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5379999999999999
+========== t = 14 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5399999999999999
+========== t = 15 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.554
+========== Nouvelle itération (n = 2) ==========
+========== t = 7 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.538
+========== t = 3 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.458
+========== t = 5 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.48
+========== t = 10 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5479999999999999
+========== t = 9 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.54
+========== t = 8 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.529
+========== t = 6 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.508
+========== t = 4 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.4709999999999999
+========== t = 11 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.53
+========== t = 12 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.534
+========== t = 13 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.535
+========== t = 14 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.542
+========== t = 15 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.551
+========== Nouvelle itération (n = 2) ==========
+========== t = 7 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.524
+========== t = 3 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.439
+========== t = 5 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5060000000000001
+========== t = 10 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.524
+========== t = 9 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.529
+========== t = 8 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.526
+========== t = 6 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5000000000000001
+========== t = 4 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.44800000000000006
+========== t = 11 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5329999999999999
+========== t = 12 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.547
+========== t = 13 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5670000000000001
+========== t = 14 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.556
+========== t = 15 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.56
+========== Nouvelle itération (n = 2) ==========
+========== t = 7 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5070000000000001
+========== t = 3 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.44999999999999996
+========== t = 5 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.48100000000000004
+========== t = 10 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.514
+========== t = 9 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5279999999999999
+========== t = 8 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.53
+========== t = 6 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.508
+========== t = 4 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.479
+========== t = 11 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.551
+========== t = 12 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5249999999999999
+========== t = 13 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.545
+========== t = 14 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.53
+========== t = 15 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5640000000000001
+========== Nouvelle itération (n = 2) ==========
+========== t = 7 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5219999999999999
+========== t = 3 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.489
+========== t = 5 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.515
+========== t = 10 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.515
+========== t = 9 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5470000000000002
+========== t = 8 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5120000000000001
+========== t = 6 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.507
+========== t = 4 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.478
+========== t = 11 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5419999999999999
+========== t = 12 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.544
+========== t = 13 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5619999999999999
+========== t = 14 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.538
+========== t = 15 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.543
+========== Nouvelle itération (n = 2) ==========
+========== t = 7 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5339999999999999
+========== t = 3 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.4699999999999999
+========== t = 5 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.49
+========== t = 10 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.546
+========== t = 9 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
+Progression 80%
+Progression 90%
+0.5539999999999999
+========== t = 8 ==========
+Progression 0%
+Progression 10%
+Progression 20%
+Progression 30%
+Progression 40%
+Progression 50%
+Progression 60%
+Progression 70%
